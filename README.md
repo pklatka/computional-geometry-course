@@ -6,7 +6,7 @@ This repository consists of solutions for geometric algorithms course at AGH UST
 
 - [lab 1](https://github.com/pklatka/geometric-algorithms-course/tree/main/Lab%201): testing what determinant is better for computations (numpy vs own implementation)
 - [lab 2](https://github.com/pklatka/geometric-algorithms-course/tree/main/Lab%202): convex hull algorithms implementations (Graham and Jarvis algorithms)
-- [lab 3](https://github.com/pklatka/geometric-algorithms-course/tree/main/Lab%203): monotone polygon triangulation algorithm
-- [lab 4](https://github.com/pklatka/geometric-algorithms-course/tree/main/Lab%204): sweep line algorithm
+- [lab 3](https://github.com/pklatka/geometric-algorithms-course/tree/main/Lab%203): monotone polygon triangulation algorithm implementation
+- [lab 4](https://github.com/pklatka/geometric-algorithms-course/tree/main/Lab%204): sweep line algorithm implementation
 
 If this repository helped you, don't forget to star ⭐️ or fork 🤪.
