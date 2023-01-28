@@ -8,5 +8,6 @@ This repository consists of solutions for geometric algorithms course at AGH UST
 - [lab 2](https://github.com/pklatka/geometric-algorithms-course/tree/main/Lab%202): convex hull algorithms implementations (Graham and Jarvis algorithms)
 - [lab 3](https://github.com/pklatka/geometric-algorithms-course/tree/main/Lab%203): monotone polygon triangulation algorithm implementation
 - [lab 4](https://github.com/pklatka/geometric-algorithms-course/tree/main/Lab%204): sweep line algorithm implementation
+- [final project](https://github.com/pklatka/visibility-graph): visibility graph
 
 If this repository helped you, don't forget to star ⭐️ or fork 🤪.
