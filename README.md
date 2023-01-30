@@ -10,4 +10,4 @@ This repository consists of solutions for geometric algorithms course at AGH UST
 - [lab 4](https://github.com/pklatka/geometric-algorithms-course/tree/main/Lab%204): sweep line algorithm implementation
 - [final project](https://github.com/pklatka/visibility-graph): visibility graph
 
-If this repository helped you, don't forget to star ⭐️ or fork 🤪.
+If this repository helped you, don't forget to star ⭐️ or fork 🍴.
